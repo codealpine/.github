@@ -7,4 +7,4 @@ We are working with some small projects, mostly for fun, and some reserved ones 
 
 If you are interested for more keep in touch.
 
-Typescript, JS, Java, PHP and all typed and easy to follow languages are welcomed
+Typescript, JS, Java, PHP... all desired!
